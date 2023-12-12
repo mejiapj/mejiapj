@@ -101,26 +101,6 @@ Profesional Técnico especializado en Desarrollo de Aplicaciones con una sólida
  -->
 <hr/>
 
-<h2>Bodu Gemu| Proyecto Grupal</h2>
-
-<h4> Developed with: / Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>PostgreSQL</li>
-</ul>
-    
-Esta aplicación fusiona tanto bases de datos, backend y frontend. Nos brinda una lista detallada de videojuegos, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar videojuegos, y crear los propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar los videojuegos que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
-Deployada con Versel en el BackEnd y para el FrontEnd. 
-Pueden visitarla, haciendo click <a href="https://front-project-board-games.vercel.app">aquí</a>
-
-<hr/>
-
 <h2>DOGS | Proyecto Individual 🐾</h2>
 
 Embárcate en el emocionante viaje de DOGS, mi proyecto individual que redefine SPAs. Desarrollé una app con React, Redux, Node, Express y Sequelize, fusionando funcionalidad y estética.
@@ -158,3 +138,23 @@ Desafío de pruebas, destacando importancia de al menos pruebas en frontend, dos
 Aptitudes: Desarrollo Frontend: React, Redux · Desarrollo Backend: NodeJS, Express, Sequelize · Bases de Datos: PostgreSQL · Control de Versiones: GIT · Desarrollo controlado de formularios en JavaScript con validaciones personalizadas.
 
 Pueden visitarla, haciendo click <a href="https://pi-dogs-main-client-b5300e5f923a.herokuapp.com">aquí</a>
+
+<hr/>
+
+<h2>Bodu Gemu| Proyecto Grupal</h2>
+
+<h4> Developed with: / Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>PostgreSQL</li>
+</ul>
+    
+Esta aplicación fusiona tanto bases de datos, backend y frontend. Nos brinda una lista detallada de videojuegos, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar videojuegos, y crear los propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar los videojuegos que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
+Deployada con Versel en el BackEnd y para el FrontEnd. 
+Pueden visitarla, haciendo click <a href="https://front-project-board-games.vercel.app">aquí</a>
