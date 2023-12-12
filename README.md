@@ -86,8 +86,6 @@ Profesional Técnico especializado en Desarrollo de Aplicaciones con una sólida
 <hr/>
 <h2 align="center">Projects / Proyectos</h2>
 
-<hr/>
-
 <!-- <h2> Weather App </h2>
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
@@ -141,7 +139,7 @@ Pueden visitarla, haciendo click <a href="https://pi-dogs-main-client-b5300e5f92
 
 <hr/>
 
-<h2>Bodu Gemu| Proyecto Grupal</h2>
+<h2>Bodu Gemu | Proyecto Grupal</h2>
 
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
