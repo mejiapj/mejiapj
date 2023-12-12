@@ -155,4 +155,4 @@ Pueden visitarla, haciendo click <a href="https://pi-dogs-main-client-b5300e5f92
     
 Esta aplicación fusiona tanto bases de datos, backend y frontend. Nos brinda una lista detallada de videojuegos, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar videojuegos, y crear los propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar los videojuegos que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
 Deployada con Versel en el BackEnd y para el FrontEnd. 
-Pueden visitarla, haciendo click <a href="https://front-project-board-games.vercel.app">aquí</a>
+Pueden mirar un video, haciendo click <a href="https://www.youtube.com/watch?v=6J1g-adTc_M">aquí</a>
