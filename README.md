@@ -101,7 +101,7 @@ Profesional Técnico especializado en Desarrollo de Aplicaciones con una sólida
  -->
 <hr/>
 
-<h2> Bodu Gemu </h2>
+<h2>Bodu Gemu| Proyecto Grupal</h2>
 
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
@@ -121,7 +121,7 @@ Pueden visitarla, haciendo click <a href="https://front-project-board-games.verc
 
 <hr/>
 
-<h2>DOGS | Proyecto Individual 🐾DOGS</h2>
+<h2>DOGS | Proyecto Individual 🐾</h2>
 
 Embárcate en el emocionante viaje de DOGS, mi proyecto individual que redefine SPAs. Desarrollé una app con React, Redux, Node, Express y Sequelize, fusionando funcionalidad y estética.
 
