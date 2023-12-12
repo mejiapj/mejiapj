@@ -120,3 +120,41 @@ Deployada con Versel en el BackEnd y para el FrontEnd.
 Pueden visitarla, haciendo click <a href="https://front-project-board-games.vercel.app">aquí</a>
 
 <hr/>
+
+DOGS | Proyecto Individual 🐾DOGS | Proyecto Individual 🐾
+may. 2023 - may. 2023may. 2023 - may. 2023
+
+Asociada con HenryAsociada con Henry
+Embárcate en el emocionante viaje de DOGS, mi proyecto individual que redefine SPAs. Desarrollé una app con React, Redux, Node, Express y Sequelize, fusionando funcionalidad y estética.
+
+Objetivos Clave 🎯:
+
+Desarrollo Tecnológico: SPA dinámica con React, Redux, Node, Express y Sequelize.
+Diseño Innovador: Recursos de UX/UI para una experiencia cautivadora.
+Aplicación de Conocimientos: Integración de conceptos, puente entre teoría y aplicación.
+Mejores Prácticas: Aplicación activa de buenas prácticas para código eficiente.
+Dominio de GIT: Práctica exhaustiva del workflow de GIT para gestión eficiente.
+Enfoque en Testing: Exploración y aplicación de técnicas para garantizar robustez.
+Cronograma ⏱:
+Despliegue en tres semanas, flexibilidad para completar tareas y demostraciones adicionales.
+
+Requisitos ⚠️:
+NodeJS y NPM (Node: 12.18.3+, NPM: 6.14.16+). Actualización de dependencias bajo responsabilidad.
+
+Desarrollo Práctico 🚀:
+
+Prohibición Librerías Externas: Estilos solo con CSS.
+Configuración Inicial: Instrucciones claras para forkeo, clonación y configuración. Base de datos PostgreSQL "dogs".
+Funcionalidades 🌟:
+
+Interacción con TheDogApi: Buscar, visualizar, filtrar, ordenar y crear perros usando TheDogApi.
+Endpoints Personalizados: Rutas en backend para listados, detalles y búsquedas personalizadas, gestionando temperamentos.
+Frontend Reactivo: Vistas en React con paginación, filtrado, origen de datos (API o base de datos) y opciones de ordenamiento.
+Formulario Validado con JavaScript 📝: Implementación validada con JavaScript.
+Testing 🧪:
+Desafío de pruebas, destacando importancia de al menos pruebas en frontend, dos rutas backend y modelo de base de datos.
+
+¡Únete a DOGS, donde innovación y práctica convergen para una experiencia única con los perros más adorables! 🐶🚀Embárcate en el emocionante viaje de DOGS, mi proyecto individual que redefine SPAs. Desarrollé una app con React, Redux, Node, Express y Sequelize, fusionando funcionalidad y estética. Objetivos Clave 🎯: Desarrollo Tecnológico: SPA dinámica con React, Redux, Node, Express y Sequelize. Diseño Innovador: Recursos de UX/UI para una experiencia cautivadora. Aplicación de Conocimientos: Integración de conceptos, puente entre teoría y aplicación. Mejores Prácticas: Aplicación activa de buenas prácticas para código eficiente. Dominio de GIT: Práctica exhaustiva del workflow de GIT para gestión eficiente. Enfoque en Testing: Exploración y aplicación de técnicas para garantizar robustez. Cronograma ⏱: Despliegue en tres semanas, flexibilidad para completar tareas y demostraciones adicionales. Requisitos ⚠️: NodeJS y NPM (Node: 12.18.3+, NPM: 6.14.16+). Actualización de dependencias bajo responsabilidad. Desarrollo Práctico 🚀: Prohibición Librerías Externas: Estilos solo con CSS. Configuración Inicial: Instrucciones claras para forkeo, clonación y configuración. Base de datos PostgreSQL "dogs". Funcionalidades 🌟: Interacción con TheDogApi: Buscar, visualizar, filtrar, ordenar y crear perros usando TheDogApi. Endpoints Personalizados: Rutas en backend para listados, detalles y búsquedas personalizadas, gestionando temperamentos. Frontend Reactivo: Vistas en React con paginación, filtrado, origen de datos (API o base de datos) y opciones de ordenamiento. Formulario Validado con JavaScript 📝: Implementación validada con JavaScript. Testing 🧪: Desafío de pruebas, destacando importancia de al menos pruebas en frontend, dos rutas backend y modelo de base de datos. ¡Únete a DOGS, donde innovación y práctica convergen para una experiencia única con los perros más adorables! 🐶🚀
+Aptitudes: Desarrollo Frontend: React, Redux · Desarrollo Backend: NodeJS, Express, Sequelize · Bases de Datos: PostgreSQL · Control de Versiones: GIT · Desarrollo controlado de formularios en JavaScript con validaciones personalizadas.
+
+Pueden visitarla, haciendo click <a href="https://pi-dogs-main-client-b5300e5f923a.herokuapp.com">aquí</a>
